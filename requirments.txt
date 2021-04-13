@@ -1,0 +1,14 @@
+How To Use:
+    "Some Easy Steps!!!!!"
+
+# python3 arpSpoof.py 
+
+{Enter Target IP}
+{Enter Gateway IP}
+-----split terminal--------
+type this command for Port_Forwarding
+
+# echo 1 > /proc/sys/net/ipv4/ip_forward
+
+Done!!!! Now Go To Wireshark And Capture The Info.
+
